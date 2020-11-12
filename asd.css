@@ -1,0 +1,371 @@
+body{
+	padding: 0;
+	margin: 0;
+	font-family: 'Montserrat', sans-serif;
+	font-size: 18px;
+	
+}
+ul{
+	display: flex;
+	margin: 32px auto;
+	font-family: 'Montserrat', sans-serif;
+	padding-left: 0;
+	justify-content: space-between;
+}
+li{
+	margin: 16px 0;
+	list-style-type: none;
+}
+.menu li a{
+	text-decoration: none;
+
+}
+a{
+	color: grey;
+	transition-property: color;
+	transition-duration: 0.2s;
+
+}
+a:hover{
+	color: black;
+}
+.container{
+	width: 936px;
+	margin: 0 auto;
+	
+}
+#line{
+	
+border: 1px solid;
+}
+.name{
+	font-size: 47px;
+	width: 123px;
+	line-height: 59px;
+
+}
+.surname{
+	font-size: 47px;
+	margin-top: 0px
+}
+.DenisNovik{
+	margin-top: 40px
+}
+.Minsk{
+	margin-left: 397px;
+	margin-top: -50px;
+	font-family: 'IBM Plex Sans', sans-serif;
+}
+.button1{
+	margin-left: 910px;
+	transform: rotate(270deg);
+	position: absolute;
+	margin-top: -35px;
+	border: none;
+	font-family: 'Montserrat', sans-serif;
+	background: white;
+	font-size: 16px
+}
+.button3{
+	margin-left: 907px;
+	transform: rotate(270deg);
+	position: absolute;
+	margin-top: -75px;
+	border: none;
+	font-family: 'Montserrat', sans-serif;
+	background: white;
+	font-size: 16px; 
+}
+button:focus{
+	color: grey;
+	outline:none;
+
+}
+.img{
+	margin-top: 50px;
+}
+.back{
+	background: #F6F6F6;
+	height: 506px;
+	margin-top: 104px;
+    width: 1900px;
+    margin-left: -481px;
+   
+}
+.about{
+	text-align: center;
+	margin-top: -404px;
+	font-size: 34px;
+	position: absolute;
+	margin-left: 368px
+}
+.Denis{
+	font-family: 'Lato', sans-serif;
+	margin-top: -330px;
+	margin-left: 290px;
+	position: absolute;
+
+}
+.desig{
+	font-family: 'Lato', sans-serif;
+	margin-top: -305px;
+	margin-left: 235px;
+	position: absolute;
+}
+.Web{
+	font-family: 'Lato', sans-serif;
+	margin-top: -230px;
+	margin-left: 270px;
+	position: absolute;
+}
+.IT{
+	font-family: 'Lato', sans-serif;
+	margin-top: -205px;
+	margin-left: 345px;
+	position: absolute;
+}
+.ready{
+	font-family: 'Lato', sans-serif;
+	margin-top: -145px;
+	margin-left: 290px;
+	position: absolute;
+}
+.people{
+	font-family: 'Lato', sans-serif;
+	margin-top: -120px;
+	margin-left: 350px;
+	position: absolute;	
+}
+.Skills{
+	margin-top: 91px;
+	font-size: 34px;
+	text-align: center;
+}
+.work{
+	margin-top: 61px;
+	font-size: 18px;
+	text-align: center;
+	font-family: 'Lato', sans-serif;
+}
+.img2{
+	margin-top: 82px;
+	background: radial-gradient(75.99% 75.64% at 32.94% 22.44%, rgba(52, 54, 78, 0.98) 0%, #0C0824 100%);
+	margin-left: 200px
+}
+.img3{
+	background: radial-gradient(76% 75.63% at 32.97% 22.44%, rgba(66, 51, 37, 0.98) 0%, #1C0A00 100%);
+	margin-left: 425px;
+	margin-top: -96px;
+	position: absolute;
+}
+.img4{
+	background: radial-gradient(76% 75.63% at 32.97% 22.42%, rgba(68, 47, 85, 0.98) 0%, #12002C 100%);
+	margin-left: 640px;
+	margin-top: -96px;
+	position: absolute;
+}
+.stars{
+	margin-top: 40px;
+	margin-left: 160px;
+
+
+}
+.Adobe{
+	font-size: 14px;
+	line-height: 17px;
+	color: grey;
+	margin-top: 24px;
+	margin-left: 215px
+
+}
+.ps{
+	font-size: 14px;
+	line-height: 17px;
+	color: grey;
+	margin-top: 0px;
+	margin-left: 200px
+
+}
+
+.star1{
+	margin-left: 9px;
+}
+.star2{
+	margin-left: 9px
+}
+.star3{
+	margin-left: 9px
+}
+.star10{
+	margin-left: 9px
+}
+.Adob{
+	font-size: 14px;
+	line-height: 17px;
+	color: grey;
+	margin-top: -97px;
+	margin-left: 280px
+}
+.il{
+	font-size: 14px;
+	line-height: 17px;
+	color: grey;
+	margin-top: 0px;
+	margin-left: 270px
+}
+.stars2{
+	margin-left: 250px;
+	margin-top: 40px
+}
+.star4{
+	margin-left: -30px
+}
+.star5{
+	margin-left: 9px
+}
+.star6{
+	margin-left: 9px
+}
+.star11{
+	margin-left: 9px
+}
+.star12{
+	margin-left: 9px
+}
+.Ad{
+	margin: -100px;
+	margin-left: 250px;
+	font-size: 14px;
+	line-height: 17px;
+color: grey;
+}
+.ae{
+	margin-top: 100px;
+	font-size: 14px;
+	line-height: 17px;
+color: grey;
+margin-left: 230px;
+
+}
+.stars3{
+	margin-left: 190px;
+	margin-top: 40px
+}
+.star8{
+	margin-left: 9px
+
+}
+.star9{
+	margin-left: 9px
+}
+.star0{
+	margin-left: 9px
+}
+.whitestar{
+	margin-left: 9px
+}
+.Port{
+	margin-top: 222px;
+	text-align: center;
+}
+.back1{
+	width: 1910px;
+height: 2353px;
+background: #F6F6F6;
+margin-left: -492px;
+margin-top: -2170px
+
+}
+.woman{
+	margin: 47px auto
+}
+.asos{
+	margin-left: 330px;
+	font-family: 'Lato', sans-serif;
+	margin-top: 44px
+
+}
+.reebok{
+	
+	margin: 99px auto
+}
+.store{
+	margin-left: 370px;
+	font-family: 'Lato', sans-serif;
+	position: absolute;
+	margin-top: -44px
+}
+.cam{
+	margin-top: 99px 
+
+}
+.camera{
+	margin-left: 350px;
+	font-family: 'Lato', sans-serif;
+	margin-top: 44px;
+	position: absolute;
+}
+.cont{
+	text-align: center;
+	margin-top: 114px
+}
+.chat{
+	font-size: 18px;
+	font-family: 'Lato', sans-serif;
+	margin-top: 20px;
+	text-align: center;
+}
+.welcome{
+	font-size: 18px;
+	font-family: 'Lato', sans-serif;
+	text-align: center;
+	margin-top: -15px
+}
+.button123{
+	background: black;
+	color: white;
+	border-radius: 40px;
+	text-decoration: none;
+	font-size: 18px;
+	padding-top: 8px;
+	padding-bottom: 8px;
+	padding-left: 32px;
+    padding-right: 32px;
+    border-color: black;
+    margin-top: 29px;
+    margin-left: 370px
+
+}
+.socialnetworks{
+	margin-top: 86px;
+	margin-left: 270px
+
+}
+.inst{
+	margin-left: 61px
+}
+.vector{
+	margin-left: 61px;
+}
+.global{
+	margin-left: 61px
+}
+.like{
+	text-align: center;
+	font-size: 14px;
+	font-family: 'Lato', sans-serif;
+	color: grey;
+
+}
+.networks{
+	text-align: center;
+	font-size: 14px;
+	font-family: 'Lato', sans-serif;
+	color: grey;
+	margin-top: -20px
+
+}
+.back333{
+ margin-top: 123px;
+ color: white
+}
